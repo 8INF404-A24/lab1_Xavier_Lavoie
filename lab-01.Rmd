@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 ---
 title: "Lab 01 - Bonjour R"
-author: "Xavier Lavoie"
-date: "30 août 2024"
+author: "Vamoussa47"
+date: "01 septembre 2024"
 output: github_document
 ---
 
